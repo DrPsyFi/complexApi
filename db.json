@@ -1,0 +1,83 @@
+{
+  "costumes": [{
+    "id": 1,
+    "name": "Storm Trooper Helmet",
+    "price": 2,
+    "tags_id": ["SJYhtZY6z", "HJm60N56z"]
+  }, {
+    "id": 2,
+    "name": "Witch Hat",
+    "price": 2.5,
+    "tags_id": ["ByIaoZKaM", "SJmz1S9pz"]
+  }, {
+    "id": 3,
+    "name": "Pirate Hat",
+    "price": 3,
+    "tags_id": ["SkBjsZYaM", "SJmz1S9pz"]
+  }, {
+    "id": 4,
+    "name": "Donald Trump Mask",
+    "price": 1.5,
+    "tags_id": ["rJWqobYpf", "HJm60N56z"]
+  }, {
+    "id": 5,
+    "name": "sword",
+    "price": 7.5,
+    "tags_id": ["SkBjsZYaM", "HJUEJS56G"]
+  }, {
+    "id": 6,
+    "name": "wand",
+    "price": 3.5,
+    "tags_id": ["ByIaoZKaM", "HJUEJS56G"]
+  }, {
+    "id": 7,
+    "name": "ST rifle",
+    "price": 10.5,
+    "tags_id": ["SJYhtZY6z", "HJUEJS56G"]
+  }, {
+    "id": 8,
+    "name": "eye patch with skull",
+    "price": 2.25
+  }, {
+    "id": 9,
+    "name": "eye patch",
+    "price": 2.25
+  }],
+  "tags": [{
+    "id": "SJYhtZY6z",
+    "name": "Sci-Fi"
+  }, {
+    "id": "ByIaoZKaM",
+    "name": "Fantasy"
+  }, {
+    "id": "SkBjsZYaM",
+    "name": "Historical"
+  }, {
+    "id": "rJWqobYpf",
+    "name": "Political"
+  }, {
+    "id": "HJm60N56z",
+    "name": "mask"
+  }, {
+    "id": "SJmz1S9pz",
+    "name": "head wear"
+  }, {
+    "id": "HJUEJS56G",
+    "name": "weapon"
+  }, {
+    "id": "SJopkSca2",
+    "name": "accessory"
+  }, {
+    "id": "S1blisn6z",
+    "name": "teeth"
+  }, {
+    "id": "rJ-z6snTf",
+    "name": "purple wig"
+  }, {
+    "id": "SytFRohTG",
+    "name": "silver wig"
+  }, {
+    "id": "HyZQNh36f",
+    "name": "pink wig"
+  }]
+}
